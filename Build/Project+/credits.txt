@@ -19,12 +19,14 @@ YOSHI
 KIRBY
 
 FOX
+09 - Amy! Fox
 
 PIKACHU
 
 LUIGI
 
 CAPTAIN FALCON
+45 - SunnyKnight Falcon by Autumn
 
 NESS
 
@@ -44,6 +46,7 @@ MARTH
 MR. GAME & WATCH
 
 FALCO
+09 - Captain Birdman Falco
 
 GANONDORF
 
@@ -66,10 +69,12 @@ CHARIZARD
 SQUIRTLE
 
 IVYSAUR
+25 - BUH Ivy
 
 DEDEDE
 
 LUCARIO
+25 - Fearless Lucario
 
 IKE
 
