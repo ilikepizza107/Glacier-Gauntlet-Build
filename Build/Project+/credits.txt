@@ -17,6 +17,10 @@ SAMUS
 YOSHI
 
 KIRBY
+35 - SSK Kirby by SJS
+36 - SSK Red Kirby by SJS
+37 - SSK Blue Kirby by SJS
+38 - SSK Green Kirby by SJS
 
 FOX
 09 - Amy! Fox
