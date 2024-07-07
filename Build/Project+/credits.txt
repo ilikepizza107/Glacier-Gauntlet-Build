@@ -57,9 +57,10 @@ MR. GAME & WATCH
 FALCO
 09 - Captain Birdman Falco
 26 - Atari Falco by ilikepizza107
+34 - Kakashi Wolf by Autumn
+35 - Black Kakashi Wolf by Autumn
 
 GANONDORF
-26 - Jejai Ganondorf by ilikepizza107
 
 META KNIGHT
 
@@ -98,10 +99,13 @@ JIGGLYPUFF
 WARIO
 
 ROY
+09 - Atari Roy by ilikepizza107
 
 TOON LINK
 
 WOLF
+06 - spookyj Wolf
+25 - SunnyKnight Wolf by Autumn
 
 SNAKE
 
