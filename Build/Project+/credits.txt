@@ -13,6 +13,7 @@ DONKEY KONG
 LINK
 
 SAMUS
+40 - Goosluj Samus by ilikepizza107
 
 YOSHI
 
@@ -69,6 +70,7 @@ META KNIGHT
 PIT
 
 ZERO SUIT SAMUS
+40 - Goosluj ZSS by ilikepizza107
 
 OLIMAR
 40 - CP9 Olimar by FingerStripes
@@ -110,6 +112,7 @@ WOLF
 25 - SunnyKnight Wolf by Autumn
 
 SNAKE
+25 - Edgevids Snake by ilikepizza107
 
 SONIC
 
