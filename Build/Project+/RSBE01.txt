@@ -1144,7 +1144,7 @@ setLedgeGrab:
   mtctr r12 
   bctrl #set LA-Basic[79] = 0, ledgegrab count
 end:
-  stw r28, 0x38(r30)
+  stw r28, 0x38(r30) # Set Action
   li r29, 1
   lwz r3, 0x44(r30)
 }
@@ -2530,11 +2530,12 @@ SFX Survival -> Choose Your Character [Standardtoaster]
 op li r4, 0x2046 @ $80683998
 op li r4, 0x2046 @ $8068E590
 
-############################################################################
-No Audience SFX on Stage Selection v2 [Standardtoaster, DukeItOut, Kapedani]
-############################################################################
+#############################################################################################
+No Audience SFX on Stage Selection v2.5 [Standardtoaster, DukeItOut, Kapedani, ilikepizza107]
+#############################################################################################
 op NOP @ $806b46d0
 op NOP @ $806b53b8
+op NOP @ $806b5520
 
 ###################################################################
 No Swoosh SFX on Character Selection v2 [standardtoaster, Kapedani]
