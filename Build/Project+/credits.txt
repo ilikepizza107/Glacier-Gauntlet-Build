@@ -33,6 +33,7 @@ LUIGI
 
 CAPTAIN FALCON
 07 - Salt Falcon by ilikepizza107
+35 - Stude Falcon by Motobug
 45 - SunnyKnight Falcon by Autumn
 
 NESS
@@ -119,23 +120,41 @@ SONIC
 
 WARIO MAN
 
-BOWSER
+GIGA BOWSER
 11 - Nihil Giga Bowser by ilikepizza107
 
 KNUCKLES
+15 - Apathy Knuckles by SOULLY
 
 ########################
 STAGES
 ########################
 
 BATTLEFIELD
-Base - Daytime Battlefield by ilikepizza107
+Base - BiT Battlefield by ilikepizza107
+R - Daytime Battlefield by ilikepizza107
+
+DREAM LAND
+Base - BiT Dream Land by ilikepizza107
+
+FRIGATE HUSK
+Base - BiT Hyrule Meadows by ilikepizza107
+R - Hyrule Meadows by Motobug, with edits by mawwwk
+
+LUIGI'S MANSION
+Base - BiT Luigis by ilikepizza107
 
 POKEMON STADIUM 2
 Base - Best in Texas PS2 by ilikepizza107
 
-FRIGATE HUSK
-Base - Hyrule Meadows by Motobug, with edits by mawwwk
+SMASHVILLE
+Base - BiT SV by ilikepizza107
+
+TEMPLE OF TIME
+Base - BiT Temple of Time by ilikepizza107
+
+YOSHI'S ISLAND
+Base - BiT Yoshi's by ilikepizza107
 
 ################
 MENUS
